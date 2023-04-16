@@ -3,6 +3,6 @@ Web-API for [amiiboapi.com](https://amiiboapi.com) an Amiibo database that holds
 
 ## Example
 ```bash
-source amiibo_api.sh
+source ./amiibo_api.sh
 get_amiibo_by_name "Mario"
 ```
